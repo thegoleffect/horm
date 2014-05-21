@@ -1,0 +1,19 @@
+{
+  "name": "horm",
+  "version": "0.0.0",
+  "description": "hapi object relational mapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegoleffect/horm.git"
+  },
+  "author": "Van Nguyen <thegoleffect@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "helenus": "^0.6.10",
+    "node-cassandra-cql": "^0.4.4"
+  }
+}
